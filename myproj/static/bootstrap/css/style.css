@@ -1,0 +1,11 @@
+.para{
+    font-size: x-large;
+    font-style: italic;
+    color: blue;
+}
+
+.para p{
+    font-size: x-large;
+    font-style: italic;
+    color: blue;
+}
